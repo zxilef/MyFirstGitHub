@@ -1,8 +1,8 @@
 # MyFirstGitHub
-#Fonts
+###Fonts
 
-italic text
+*italic text*
 
-bold text
+**bold text**
 
-__combine__ **text**
+__*combine*__ **text**
